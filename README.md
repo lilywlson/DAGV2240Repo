@@ -5,3 +5,6 @@ My robot arm is meant as a medical assistive device to be used at home by patien
 
 01/12/23
 During the modeling process, I somewhat changed the tubing section of the robotic arm into a flat curve with a central tubing system. The flat curve is meant to suck bubbles out of the moving medication while it is traveling through the central unit.
+
+01/16/23
+As I finalized my model, any changes I made were entirely for aesthetic purposes. I added edge loops to shape things the way I wanted them to be shaped and I also added some shapes to add structural integrity to the arm.
