@@ -8,3 +8,6 @@ During the modeling process, I somewhat changed the tubing section of the roboti
 
 01/16/23
 As I finalized my model, any changes I made were entirely for aesthetic purposes. I added edge loops to shape things the way I wanted them to be shaped and I also added some shapes to add structural integrity to the arm.
+
+01/19/23
+I UV mapped the finished model I had made, there isn't much to tell there. When it came to surfacing, I had some difficulties at first but then I realized I needed to layout my UVs better and once I did that, it made the substance painter much easier. I made the floor bits a rubber material while most of the body of the arm was a metal brush. One of the joints near where the medicine is pushed into the pump I made a carbon fiber material and the spiral tubing I made a bright orange painted color.
