@@ -14,3 +14,6 @@ I UV mapped the finished model I had made, there isn't much to tell there. When 
 
 02/05/24 - Monoped
 I designed a marine mammal that I named a Lenoira. They are native to a fantasy world I also designed and created called Elistria. They swim and hunt in pods of 10-15 and mate for life. They are predatory animals with thin narrow bodies and long tails. They have large pectoral fins that double as wings for jumping of the water to catch fish and steering fins on their tails, which also have a large flat paddle at the ends. Their ears are long and fluffy, using to detect their echolocation pings.
+
+02/09/24 - Monoped
+I used a YouTube tutorial to really try and understand some of the zbrush fundamentals. I designed the face shape and body shape first before adding in more details like fin flaps, eyes, nostrils, ears, etc. My biggest issue was figuring out how to smooth things down and not be lumpy, even with the smooth brush, and it still is a bit lumpy of a design.
