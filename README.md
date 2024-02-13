@@ -17,3 +17,6 @@ I designed a marine mammal that I named a Lenoira. They are native to a fantasy 
 
 02/09/24 - Monoped
 I used a YouTube tutorial to really try and understand some of the zbrush fundamentals. I designed the face shape and body shape first before adding in more details like fin flaps, eyes, nostrils, ears, etc. My biggest issue was figuring out how to smooth things down and not be lumpy, even with the smooth brush, and it still is a bit lumpy of a design.
+
+02/12/24 - Monoped
+I retopo'd my zbrush model to make it more low-poly and low resolution. I was able to figure out how to smooth the body down a bit in Maya via the retopo'ing but I still struggle a bit with that concept in zbrush, itself. I left the model mostly the same otherwise and I also went ahead and added the skeleton/joints for future rigging.
